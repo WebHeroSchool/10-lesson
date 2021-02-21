@@ -1,0 +1,22 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node hello.js",
+    "create": "touch build.js",
+    "delete": "rm -rf build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/10-lesson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/10-lesson/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/10-lesson#readme",
+  "description": ""
+}
